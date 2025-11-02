@@ -1,3 +1,5 @@
+<img width="945" height="522" alt="image" src="https://github.com/user-attachments/assets/97a3ff00-f2c8-48e1-8146-389a684cb39c" />
+
 # Análise da saúde mental de estudantes
 
 Projeto 1 da trilha Analista de dados associado em SQL da plataforma de cursos DataCamp
